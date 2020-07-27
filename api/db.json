@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "name",
+      "description": "description",
+      "id": 1
+    },
+    {
+      "title": "name",
+      "description": "description",
+      "id": 2
+    },
+    {
+      "title": "The best streams",
+      "description": "The best streams you'd watch today",
+      "id": 5
+    },
+    {
+      "title": "A new stream",
+      "description": "A new stream created by Bhaelar",
+      "userId": "101910976496330601892",
+      "id": 6
+    }
+  ]
+}
